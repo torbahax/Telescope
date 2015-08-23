@@ -159,6 +159,7 @@ telescope:users@0.23.0
 templating@1.1.1
 tracker@1.0.7
 tsega:bootstrap3-datetimepicker@4.14.30_4
+twbs:bootstrap@3.3.5
 twitter@1.1.4
 ui@1.0.6
 underscore@1.0.3
@@ -168,3 +169,4 @@ useraccounts:unstyled@1.11.1
 utilities:avatar@0.8.2
 webapp@1.2.0
 webapp-hashing@1.0.3
+webbroi:telescope-theme-iris@0.2.3
